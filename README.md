@@ -1,0 +1,1 @@
+hurl static binary
